@@ -6,9 +6,9 @@ public class Person {
     // - name (String)
     // - age (int)
     // - wilder (boolean)
-	String name;
-	int age;
-	boolean wilder;
+	private String name;
+	private int age;
+	private boolean wilder;
 
 
     // TODO 2. Add a Constructor with name and age arguments (in this order)
